@@ -9,12 +9,11 @@ body {
     padding: 0;
 }
  header {
-    height: 87vh;
+    background-color: #fff;
     background-image: url('img/header.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 87vh cover;
     display: block;
-    margin-bottom: 160px;
 }
 .menu {
     padding-top: 20px;
