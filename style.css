@@ -10,7 +10,7 @@ body {
 }
  header {
     height: 87vh;
-    background: url('/img/header.jpg') center;
+    background-image: url('img/header.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
@@ -195,8 +195,8 @@ margin-bottom: 170px;
 }
 #photo {
    height: 814px;
-   width: 1920px;
-    background: url('/img/RectanglePhoto.jpg');
+   max-width: 2400px;
+    background-image: url('img/RectanglePhoto.jpg');
     background-repeat:round;
     display: block;
 }
